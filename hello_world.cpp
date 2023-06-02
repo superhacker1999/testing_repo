@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-	std::cout << "Hello world!\n";
+	std::cout << "This is a test repo\n";
 
 	return 0;
 }
